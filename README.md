@@ -96,11 +96,11 @@
 <h3 align="left">📊 GitHub Stats:</h3>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitkr1375&show_icons=true&locale=en&layout=compact" alt="ankitkr1375" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitkrshr&show_icons=true&locale=en&layout=compact" alt="ankitkr1375" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitkr1375&show_icons=true&locale=en" alt="ankitkr1375" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitkrshr&show_icons=true&locale=en" alt="ankitkr1375" />
 </p>
 
 <p>
