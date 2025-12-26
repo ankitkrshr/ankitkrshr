@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **an Android application**
 
-- 🌱 I’m currently learning **Scikit-Learn, TensorFlow, and Android Development**
+- 🌱 I’m currently learning **NLP, Scikit-Learn, TensorFlow, and Android Development**
 
 - 👯 I’m looking to collaborate on **AI/ML Projects**
 
 - 🤝 I’m looking for help with **UI design and frontend development**
 
-- 💬 Ask me about **Python, Scikit-Learn, and AI**
+- 💬 Ask me about **Python, Scikit-Learn, NLP, and AI**
 
 - 📫 How to reach me: **sankitr1375@gmail.com**
 
