@@ -96,13 +96,13 @@
 <h3 align="left">📊 GitHub Stats:</h3>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitkrshr&show_icons=true&locale=en&layout=compact" alt="ankitkr1375" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitkrshr&show_icons=true&locale=en&layout=compact" alt="ankitkrshr" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitkrshr&show_icons=true&locale=en" alt="ankitkr1375" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitkrshr&show_icons=true&locale=en" alt="ankitkrshr" />
 </p>
 
 <p>
-<img src="https://streak-stats.demolab.com/?user=ankitkr1375/" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=ankitkrshr/" alt="GitHub Streak" />
 </p>
